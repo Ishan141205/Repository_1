@@ -1,0 +1,2 @@
+reverse from staging area to working directiory using "git restore --staged four.txt
+"
