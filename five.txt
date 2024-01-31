@@ -1,0 +1,2 @@
+to save file for later use without committing it using "git stash"
+and re access it using "git stash pop"
